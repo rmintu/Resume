@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.profile-img img{
+    width: 120px;
+    border-radius: 78px;
+}
+
+.designation {
+    background-color: #eb7d1e;
+    width: 72%;
+    margin-left: 45px;
+    padding: 2px;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.social-icons {
+    width: 100%;
+    text-align: center;
+}
+
+.skills{
+    text-align: left;
+}
+
+.flex-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.percentage {
+    margin-left: 200px;
+}
+
+.cv {
+    background-color: rgb(247 143 66);
+    border-color: white;
+    padding: 5px;
+    width: 100%;
+}
